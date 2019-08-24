@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="246a5863-ddc5-488d-be3e-da72b8d9cd7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Lab03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap01/DSA-Python-Cap01-ComoUtilizarJupyterNotebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap01/DSA-Python-Cap01-ComoUtilizarJupyterNotebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap01/JupyterNotebook-ManualUsuario.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap01/JupyterNotebook-ManualUsuario.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-01-Numeros.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-01-Numeros.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-02-Variaveis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-02-Variaveis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-03-Strings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-03-Strings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-04-Listas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-04-Listas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-05-Dicionarios.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-05-Dicionarios.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-06-Tuplas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-06-Tuplas.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-Exercicios-Solucao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-Exercicios-Solucao.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-Exercicios.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap02/Notebooks/DSA-Python-Cap02-Exercicios.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Lab02/calculadora_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Lab02/calculadora_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-01-If-Elif-Else.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-01-If-Elif-Else.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-02-For.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-02-For.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-03-While.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-03-While.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-04-Range.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-04-Range.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-05-Metodos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-05-Metodos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-06-Funcoes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-06-Funcoes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-07-Lambda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-07-Lambda.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-Exercicios-Funcoes-Solucao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-Exercicios-Funcoes-Solucao.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-Exercicios-Funcoes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-Exercicios-Funcoes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-Exercicios-Loops-Condiconais.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap03/Notebooks/DSA-Python-Cap03-Exercicios-Loops-Condiconais.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-01-Arquivos-Parte1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-01-Arquivos-Parte1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-02-Arquivos-Parte2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-02-Arquivos-Parte2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-03-Modulos-e-Pacotes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-03-Modulos-e-Pacotes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-04-Datetime.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-04-Datetime.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-05-Map.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-05-Map.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-06-Reduce.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-06-Reduce.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-07-Filter.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-07-Filter.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-08-List Comprehensions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-08-List Comprehensions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-09-Zip.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-09-Zip.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-10-Enumerate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-10-Enumerate.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-11-Erros-e-Excecoes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-11-Erros-e-Excecoes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-ExercicioS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-ExercicioS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-Exercicios-Solucao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/DSA-Python-Cap04-Exercicios-Solucao.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/arquivo1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/arquivo1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/cientista.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/cientista.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/numeros.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/numeros.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/teste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cap04/Notebooks/arquivos/teste.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forca_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/forca_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/palavras.txt" beforeDir="false" afterPath="$PROJECT_DIR$/palavras.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-01-Classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-01-Classes.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-02-Objetos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-02-Objetos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-03-Metodos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-03-Metodos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-04-Heranca.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-04-Heranca.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-05-MetodosEspeciais.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-05-MetodosEspeciais.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-Exercicios.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Notebooks/DSA-Python-Cap05-Exercicios.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lab03" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/forca_v1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="104" column="33" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/palavras.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/palavras.txt" />
+        <option value="$PROJECT_DIR$/forca_v1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="850" />
+    <option name="y" value="365" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab03" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab03" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="forca_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lab03" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/forca_v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.forca_v1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="246a5863-ddc5-488d-be3e-da72b8d9cd7a" name="Default Changelist" comment="" />
+      <created>1561212620203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561212620203</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" sideWeight="0.5007072" side_tool="true" weight="0.22523117" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49673203" weight="0.22523117" />
+      <window_info id="Structure" order="1" sideWeight="0.50162864" side_tool="true" weight="0.22523117" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.65912306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" sideWeight="0.5007072" side_tool="true" weight="0.22523117" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49673203" visible="true" weight="0.22523117" />
+      <window_info id="Structure" order="2" sideWeight="0.50162864" side_tool="true" visible="true" weight="0.22523117" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.5671853" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/palavras.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/forca_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="104" column="33" selection-start-line="104" selection-start-column="33" selection-end-line="104" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
