@@ -6,7 +6,7 @@ class TestUniqueChars(object):
     def test_unique_chars(self, func):
         assert_equal(func(None), False)
         assert_equal(func(''), True)
-     #   assert_equal(func('foo'), False)
+        assert_equal(func('foo'), False)
         assert_equal(func('bar'), True)
         print('Sua solução foi executada com sucesso! Parabéns!')
 
